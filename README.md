@@ -14,7 +14,9 @@ Plan once, press start, and let your day run itself.
 
 <br />
 
-<img src="apps/web/public/screenshots/dashboard.png" alt="Freedom Desktop Execution Suite" width="100%" style="border-radius: 14px; box-shadow: 0 20px 50px rgba(0,0,0,0.15);" />
+
+
+<img alt="dashboard" src="https://github.com/user-attachments/assets/a689b4fb-e1fd-4781-bbc2-8da992b901f3" width="100%" style="border-radius: 14px; box-shadow: 0 20px 50px rgba(0,0,0,0.15);" />
 
 </div>
 
