@@ -88,7 +88,7 @@ Crafted strictly following Apple Human Interface Guidelines: native squircle doc
 Get the official v3.8.0 release:
 - 🍏 **[Download Freedom for macOS (Apple Silicon & Intel DMG)](https://usefreedom.top/download)**
 - 🪟 **[Download Freedom for Windows (Setup EXE)](https://usefreedom.top/download)**
-- 📦 Direct releases also available on **[GitHub Releases](https://github.com/timothy-okoduwa/freedom/releases)**.
+- 📦 Direct releases also available on **[GitHub Releases](https://github.com/timothy-okoduwa/freedom-realease/releases)**.
 
 ### 2. macOS First-Run ("App is Damaged" / Unidentified Developer)
 Because Freedom is an open-source indie build without a commercial Apple Developer certificate, macOS Sequoia and Sonoma flag web downloads with a quarantine attribute.
@@ -125,7 +125,7 @@ freedom/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/timothy-okoduwa/freedom.git
+git clone https://github.com/timothy-okoduwa/freedom-realease.git
 cd freedom
 
 # 2. Install dependencies
@@ -154,7 +154,7 @@ pnpm --filter @freedom/desktop dist:win
 ## 🤝 Contributing
 
 We welcome contributions from builders, designers, and hackers!  
-Feel free to open an issue or submit a pull request on [GitHub](https://github.com/timothy-okoduwa/freedom).
+Feel free to open an issue or submit a pull request on [GitHub](https://github.com/timothy-okoduwa/freedom-realease).
 
 ---
 
