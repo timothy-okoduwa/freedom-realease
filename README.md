@@ -36,7 +36,8 @@ Most productivity tools force you to micro-manage them. You end up spending more
 ### 🧠 Prompt-to-Plan Day Planner & Voice Dictation
 Turn unstructured brain-dumps, messy task lists, and natural spoken voice memos into structured, chronological day timelines with automatic duration buffers and tags powered by Gemini multimodal intelligence.
 
-<img src="apps/web/public/screenshots/plan-builder-prompt.png" alt="Prompt-to-Plan Day Planner" width="100%" style="border-radius: 12px; margin: 12px 0;" />
+<img  alt="plan-builder-prompt" src="https://github.com/user-attachments/assets/1a6f1c9f-a204-4cc5-bf40-0ee963606cc4" width="100%" style="border-radius: 12px; margin: 12px 0;" />
+
 
 ### 🎯 Global Crosshair Screen Snipping (`Ctrl + Option + Space`)
 Hit the system shortcut from any workspace. Freeze-frame and crop Jira tickets, GitHub PRs, Figma artboards, or Slack conversations to instantly synthesize them into concrete queue tasks with visual source screenshots attached.
@@ -44,7 +45,9 @@ Hit the system shortcut from any workspace. Freeze-frame and crop Jira tickets, 
 ### 🔄 The Day Recovery Engine (Schedule Re-balancer)
 When meetings run 45 minutes over or emergencies derail your morning, click **“Recover My Day”** to intelligently push non-critical tasks to backlog, protect focus blocks, and restore realistic completion milestones without guilt.
 
-<img src="apps/web/public/screenshots/day-recovery-engine.png" alt="The Day Recovery Engine" width="100%" style="border-radius: 12px; margin: 12px 0;" />
+
+<img  alt="day-recovery-engine" src="https://github.com/user-attachments/assets/50766ba4-4650-4d05-9da5-a17ecb649660" width="100%" style="border-radius: 12px; margin: 12px 0;"/>
+
 
 ### 💊 Floating Pill Capsule HUD
 Stays pinned on top of all virtual desktops and full-screen windows (VS Code, Figma, browser). Single-click to view active task; double-click to expand full dashboard; drag anywhere across displays. Quick duration adjusters (`+10m`, `-10m`, custom time) keep you in flow.
@@ -61,7 +64,8 @@ Tracks actual time spent vs. initial estimates across categories. Generates cali
 ### 📈 365-Day Consistency Heatmap & Objective Score
 Objective algorithm measuring planning accuracy alongside completion, outputting a transparent 0–100 score dial and an edge-safe GitHub-style activity matrix with streak protection.
 
-<img src="apps/web/public/screenshots/v2.5.0-heatmap.png" alt="Yearly Consistency Heatmap" width="100%" style="border-radius: 12px; margin: 12px 0;" />
+
+<img alt="v2 5 0-heatmap" src="https://github.com/user-attachments/assets/7b9b9430-59a4-4fe7-ab0e-eea6a7affb4b" width="100%" style="border-radius: 12px; margin: 12px 0;"/>
 
 ### 🎵 Distraction Shield & Ambient Audio Engine
 Integrated music player with curated flow tracks (*Ninajirachi — iPod Touch*, *Mizmo — Hello*) selectable directly from the status bar menu.
